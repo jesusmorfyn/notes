@@ -1,5 +1,3 @@
-# Notas del Libro sobre la Shell de Linux
-
 ## PARTE I: APRENDIENDO LA SHELL
 
 ### Capítulo 1: ¿QUÉ ES LA SHELL?
